@@ -8,7 +8,7 @@ Put this command:
 
 
 
-This command will install **node_modules**. 
+This command will install **node_modules**.   
 To run project and turn it on locahost, you need to type this command in terminal:  
 
 

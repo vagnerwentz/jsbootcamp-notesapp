@@ -14,4 +14,7 @@ const setFilters = (updates) => {
     }
 };
 
-export { getFilters, setFilters };
+export { 
+    getFilters, 
+    setFilters 
+};
